@@ -39,6 +39,10 @@ p {
     margin-bottom: 20px;
 }
 
+.banner .content p span {
+    color: #ff0157;
+}
+
 .btn-menu {
     transition: 0.5s;
     font-size: 1em;

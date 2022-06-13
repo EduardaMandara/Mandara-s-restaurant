@@ -7,11 +7,11 @@
 - [ ] Data de início do projeto (07 / 06 / 2022); 
 - [ ] Data de entrega do projeto (10 / 06 / 2022);
 - [ ] Será postado no LinkedIn em (13 / 06 / 2022);
-- [ ] Estrutura HTML;
-- [ ] Definir as cores do site;
-- [ ] Coletar as imagens;
-- [ ] Fazer CSS básico;
-- [ ] Dimensionamento da página;
+- [x] Estrutura HTML;
+- [x] Definir as cores do site;
+- [x] Coletar as imagens;
+- [x] Fazer CSS básico;
+- [x] Dimensionamento da página;
 - [ ] Separar os CSS’s;
 - [ ] JavaScript;
 - [x] Link para o Vercel.

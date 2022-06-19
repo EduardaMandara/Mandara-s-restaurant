@@ -7,3 +7,8 @@
     font-family: 'Poppins', sans-serif;
     scroll-behavior: smooth;
 }
+
+#footer {
+    background: fixed;
+    background-color: #333;
+}

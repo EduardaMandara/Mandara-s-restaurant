@@ -30,13 +30,13 @@ span {
     width: 48%;
 }
 
-.title_Text_About {
+.title_Text {
     color: #111;
     font-size: 2em;
     font-weight: 300;
 }
 
-.title_Text_About span {
+.title_Text span {
     color: #ff0157;
     font-size: 1.5em;
     font-weight: 700;

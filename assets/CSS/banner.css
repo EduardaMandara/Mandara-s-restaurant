@@ -44,7 +44,7 @@ p {
     color: #ff0157;
 }
 
-.btn-menu {
+.btn {
     transition: 0.5s;
     font-size: 1em;
     color: #fff;
@@ -56,6 +56,6 @@ p {
     Letter-spacing: 2px;
 }
 
-.btn-menu:hover {
+.btn:hover {
     Letter-spacing: 6px;
 }

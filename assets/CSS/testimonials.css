@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    scroll-behavior: smooth;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    scroll-behavior: smooth;
+}
+
+.testimonials {
+    background: url(https://besthqwallpapers.com/Uploads/22-4-2019/88276/thumb2-black-wooden-boards-close-up-black-wooden-texture-wooden-backgrounds-macro.jpg);
+    /* background-size: cover; */
+}
+
+.white .title_Text, .white p {
+    color: #fff;
+}
+
+

@@ -8,4 +8,48 @@
     scroll-behavior: smooth;
 }
 
+.title {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 
+}
+
+.experts .content {
+    display: inline-block;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-top: 40px;
+}
+
+.experts .content .box {
+    width: 250px;
+    margin: 15px;
+}
+
+.experts .content .box .imgBx {
+    position: relative;
+    width: 100%;
+    height: 300px;
+}
+
+.experts .content .box .imgBx img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.experts .content .box .text {
+    padding: 15px 0 5px;
+}
+
+.experts .content .box .text h3 {
+    font-weight: 400;
+    color: #111;
+}

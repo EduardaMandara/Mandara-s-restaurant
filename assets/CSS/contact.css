@@ -9,7 +9,7 @@
 }
 
 .contact {
-    background: url(https://cristalalimentos.com.br/wp-content/uploads/2020/01/Cristal-Conteudos-0102-16.png);
+    background: url(https://st4.depositphotos.com/38740582/39587/i/450/depositphotos_395877430-stock-photo-fresh-cherry-tomatoes-basil-leaves.jpg);
     background-size: cover;
 }
 
@@ -34,11 +34,29 @@
     margin-bottom: 20px;
 }
 
-.contactForm .inputBox input {
+.contactForm .inputBox input, .contactForm .inputBox textarea {
     width: 100%;
     border: 1px solid #555;
     padding: 10px;
     color: #111;
     outline: none;
     font-size: 16px;
+    font-weight: 300;
+    resize: none; 
 }
+
+.contactForm .inputBox input[type="submit"] {
+    font-size: 1em;
+    color: #fff;
+    background: #ff0157;
+    display: inline-block;
+    text-transform: uppercase;
+    text-decoration: none;
+    letter-spacing: 2px;
+    transition: 0.5s;
+    max-width: 100px;
+    font-weight: 500;
+    border: none;
+    cursor: pointer;
+}
+

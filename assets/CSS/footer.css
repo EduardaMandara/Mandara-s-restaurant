@@ -12,3 +12,19 @@
     background: fixed;
     background-color: #333;
 }
+
+.copyrightText {
+    padding: 8px 40px;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.copyrightText p {
+    color: #fff;
+}
+
+.copyrightText a {
+    color: #ff0157;
+    font-weight: 500;
+    text-decoration: none;
+}

@@ -49,3 +49,13 @@ header .navigation li a {
     color: #fff;
     font-weight: 400;
 }
+
+@media (max-width: 991px) {
+    header, header.sticky {
+        padding: 10px 20px;
+    }
+
+    header .navigation {
+        display: none;
+    }
+}

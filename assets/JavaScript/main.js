@@ -9,3 +9,5 @@ function menuToggle() {
 }
 
 onclick = toggleMenu()
+
+;

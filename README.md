@@ -4,16 +4,16 @@
 
 ## Etapas do projeto:
 
-- [ ] Data de início do projeto (07 / 06 / 2022); 
-- [ ] Data de entrega do projeto (10 / 06 / 2022);
-- [ ] Será postado no LinkedIn em (13 / 06 / 2022);
+- [x] Data de início do projeto (07 / 06 / 2022); 
+- [x] Data de entrega do projeto (10 / 06 / 2022);
+- [ ] Será postado no LinkedIn em (00 / 06 / 2022);
 - [x] Estrutura HTML;
 - [x] Definir as cores do site;
 - [x] Coletar as imagens;
 - [x] Fazer CSS básico;
 - [x] Dimensionamento da página;
-- [ ] Separar os CSS’s;
-- [ ] JavaScript;
+- [x] Separar os CSS’s;
+- [x] JavaScript;
 - [x] Link para o Vercel.
 
 ### Como rodar o projeto?

@@ -8,6 +8,4 @@ function menuToggle() {
     menuToggle.classList.toogle('active');
 }
 
-onclick = toggleMenu()
-
 ;

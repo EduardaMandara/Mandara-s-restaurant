@@ -69,4 +69,8 @@ header .navigation li a {
         background-position: center;
         cursor: pointer;
     }
+
+    .menuToggle.active {
+        /* 36:09 */
+    }
 }

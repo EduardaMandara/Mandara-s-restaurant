@@ -1,12 +1,7 @@
-## 🚧 Projeto em construção 🚧
-
-## NOME
+## Mandara's Restaurant
 
 ## Etapas do projeto:
 
-- [x] Data de início do projeto (07 / 06 / 2022); 
-- [x] Data de entrega do projeto (10 / 06 / 2022);
-- [ ] Será postado no LinkedIn em (00 / 06 / 2022);
 - [x] Estrutura HTML;
 - [x] Definir as cores do site;
 - [x] Coletar as imagens;
@@ -27,8 +22,8 @@
 
 ### Quais são as tecnologias utilizadas?
 
-- [ ] HTML5;
-- [ ] CSS3;
+- [x] HTML5;
+- [x] CSS3;
 - [ ] JavaScript.
 
 ### Agradeço a sua atenção desde já, um abraço! 🤗

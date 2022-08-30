@@ -3,9 +3,9 @@ window.addEventListener('scroll', function(){
     header.classList.toggle("sticky", window.scrollY > 0)
 });
 
-function menuToggle() {
-    const menuToggle = document.querySelector('.menuToggle');
-    menuToggle.classList.toogle('active');
-}
+// function menuToggle() {
+//     const menuToggle = document.querySelector('.menuToggle');
+//     menuToggle.classList.toogle('active');
+// }
 
 ;
